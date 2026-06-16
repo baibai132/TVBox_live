@@ -1,4 +1,4 @@
-🇨🇳河南地方,#genre#
+🇨🇳河北,#genre#
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=459dbbc3122457f8d042243305d36302&wsTime=1781632757
 新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=d411a285ec79063872fb4c75b295414b&wsTime=1781632757
 都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=eea70f6ba994623fa82d2fd73cbb84f6&wsTime=1781632757
